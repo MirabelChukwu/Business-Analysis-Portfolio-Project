@@ -787,3 +787,5 @@ ORDER BY gender ASC, tenure ASC;
 
 -- I am sucessfully done with my Customer Segmentation analysis
 ---Now its time to visualize. 
+
+--Visualization with be linked to the README.md file.
